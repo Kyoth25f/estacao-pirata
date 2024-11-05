@@ -6,6 +6,7 @@ advertisement-lawdrobe-5 = Ninguém está acima da lei!
 advertisement-lawdrobe-6 = Não, senhor, não autorizo essa busca!
 advertisement-lawdrobe-7 = Injetar drogas espaciais não deixa evidências!
 advertisement-lawdrobe-8 = Você ou um ente querido foi prejudicado pela Nanotrasen? Azar o teu!
+
 thankyou-lawdrobe-1 = Você pode ganhar qualquer causa com essa roupa!
 thankyou-lawdrobe-2 = Consiga uma também para seu cliente!
 thankyou-lawdrobe-3 = Ganhe ou perca, você será pago de qualquer maneira!

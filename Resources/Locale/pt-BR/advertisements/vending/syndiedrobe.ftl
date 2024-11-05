@@ -29,6 +29,7 @@ advertisement-syndiedrobe-28 = Nossos ternos são resistentes à umidade, o que 
 advertisement-syndiedrobe-29 = O melhor da galáxia!
 advertisement-syndiedrobe-30 = O que poderia ser melhor do que o cheiro do nosso uniforme pela manhã?
 advertisement-syndiedrobe-31 = Você pode deixar feedback sobre a conveniência do formulário enviando uma solicitação à nossa linha direta de Taipan, o principal não é o número errado!
+
 thankyou-syndiedrobe-1 = Faça bom uso!
 thankyou-syndiedrobe-2 = Morte ao NT!
 thankyou-syndiedrobe-3 = Mostre a eles o poder do estilo.

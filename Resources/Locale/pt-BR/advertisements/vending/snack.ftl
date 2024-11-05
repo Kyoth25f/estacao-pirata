@@ -13,6 +13,7 @@ advertisement-snack-12 = Experimente nossas especiarias!
 advertisement-snack-13 = Nosso Jerky suspeito não vai fazer você ejetado no espaço!
 advertisement-snack-14 = Disponível para comer para a maioria das espécies!
 advertisement-snack-15 = Perfeito para quando você está prestes a fome!
+
 thankyou-snack-1 = Coma!
 thankyou-snack-2 = Aproveite seu produto!
 thankyou-snack-3 = Tenha um bom lanche.

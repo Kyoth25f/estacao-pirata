@@ -8,6 +8,7 @@ advertisement-happyhonk-7 = Happy Honk não é responsável pela qualidade dos a
 advertisement-happyhonk-8 = Por que não pedir nossa refeição Mímico Happy Honk de edição limitada?
 advertisement-happyhonk-9 = Happy Honk é uma marca registrada da HONK! Co e é muito superior ao Robusto Nukie Food Corp.
 advertisement-happyhonk-10 = Nossas refeições Happy Honk certamente oferecerão uma grande surpresa!
+
 thankyou-happyhonk-1 = Honk!
 thankyou-happyhonk-2 = Honk honk!
 thankyou-happyhonk-3 = Vá compartilhar a diversão! Honk!

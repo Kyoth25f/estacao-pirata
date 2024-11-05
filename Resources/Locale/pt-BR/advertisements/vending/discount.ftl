@@ -7,6 +7,7 @@ advertisement-discount-6 = Discount Dan: Nós te fazemos bem! Eu não podia ser 
 advertisement-discount-7 = Discount Dan: Os produtos com a melhor qualida-*BZZT
 advertisement-discount-8 = Discount Dan(tm) Não é responsável por qualquer dano com o mal uso dos produtos.
 advertisement-discount-9 = Oferecemos uma grande variedade de lanches baratos!
+
 thankyou-discount-1 = Obrigado por usar-*BZZT
 thankyou-discount-2 = Lembre-se: não há reembolso!
 thankyou-discount-3 = O problema é seu agora!
